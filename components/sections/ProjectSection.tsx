@@ -130,7 +130,7 @@ const projects: Project[] = [
     title: "Crypto Website",
     description:
       "It is a Website which is used to find the current rate of the currency website",
-    techStacks: ["ReactJS", "GSAP", "Radix UI"],
+    techStacks: ["ReactJS", "GSAP", "Nodejs"],
     image: Ecommerce,
     githubURL: "https://abhicrptoapp.vercel.app/",
     githubApi: "https://abhicrptoapp.vercel.app/",
@@ -140,7 +140,7 @@ const projects: Project[] = [
     title: "Dashboard",
     description:
       "It is Dummy Dashboard which is useful for data management",
-    techStacks: ["ReactJS", "GSAP", "Radix UI"],
+    techStacks: ["ReactJS", "GSAP", "Nodejs"],
     image: Music,
     githubURL: "https://react-dashboard-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
     githubApi: "https://react-dashboard-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
