@@ -122,7 +122,7 @@ const blogs: Blog[] = [
       "Component rendering is important for the overall performance of the app. So, although it seems simple, I want to share the complex children render logic.",
     image: SpaceCat,
     publishAt: "2024, March 10",
-    link: "https://medium.com/@shinthantequi/the-mystery-of-react-children-re-rendering-3544a68944f4",
+    link: "#",
   },
   {
     id: 2,
