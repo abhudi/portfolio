@@ -72,7 +72,7 @@ export default function AboutSection() {
           )
 
           tl.to(q(".experience-count"), {
-            innerText: 2,
+            innerText: 1,
             duration: 0.5,
             snap: {
               innerText: 1,
@@ -82,7 +82,7 @@ export default function AboutSection() {
           tl.to(
             q(".project-count"),
             {
-              innerText: 15,
+              innerText: 10,
               duration: 0.5,
               snap: {
                 innerText: 1,
@@ -94,7 +94,7 @@ export default function AboutSection() {
           tl.to(
             q(".user-count"),
             {
-              innerText: 30,
+              innerText: 15,
               duration: 0.5,
               snap: {
                 innerText: 1,
