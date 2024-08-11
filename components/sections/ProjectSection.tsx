@@ -153,8 +153,8 @@ const projects: Project[] = [
       "It is Apple Product Branding Site , which is developed for the learning purpose.",
     techStacks: ["ReactJS", "3js", "GSAP"],
     image: GuessMyNumber,
-    githubURL: "https://github.com/ShinnTNT/Guess-My-Number",
-    githubApi: "https://api.github.com/repos/ShinnTNT/Guess-My-Number",
+    githubURL: "https://applesite-eight.vercel.app/",
+    githubApi: "https://applesite-eight.vercel.app/",
   },
   {
     id: 5,
