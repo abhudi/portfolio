@@ -174,4 +174,13 @@ const projects: Project[] = [
     githubURL: "https://kamwalaa.netlify.app/",
     githubApi: "https://kamwalaa.netlify.app/",
   },
+  {
+    id: 7,
+    title: "Dashbe",
+    description: "It is Dashboard Created For Demo Purpose",
+    techStacks: ["React js", "React Icons", "Css"],
+    image: ComingSoon,
+    githubURL: "https://kamwalaa.netlify.app/",
+    githubApi: "https://kamwalaa.netlify.app/",
+  }
 ]
