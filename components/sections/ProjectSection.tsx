@@ -9,6 +9,7 @@ import GuessMyNumber from "@/public/assets/projects/guess-my-number.png"
 import Music from "@/public/assets/projects/music-app.png"
 import PortfolioV2 from "@/public/assets/projects/portfolio-v2.png"
 import VSCode from "@/public/assets/projects/vscode.png"
+import newdash from "@/public/assets/projects/newdash.png"
 import { useSectionStore } from "@/store/section"
 import { gsap } from "gsap"
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger"
@@ -130,7 +131,7 @@ const projects: Project[] = [
     title: "Crypto Website",
     description:
       "It is a Website which is used to find the current rate of the currency website",
-    techStacks: ["ReactJS", "GSAP", "Nodejs"],
+    techStacks: ["ReactJS", "GSAP", "Radix UI"],
     image: Ecommerce,
     githubURL: "https://abhicrptoapp.vercel.app/",
     githubApi: "https://abhicrptoapp.vercel.app/",
@@ -140,7 +141,7 @@ const projects: Project[] = [
     title: "Dashboard",
     description:
       "It is Dummy Dashboard which is useful for data management",
-    techStacks: ["ReactJS", "GSAP", "Nodejs"],
+    techStacks: ["ReactJS", "GSAP", "Radix UI"],
     image: Music,
     githubURL: "https://react-dashboard-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
     githubApi: "https://react-dashboard-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
@@ -179,8 +180,8 @@ const projects: Project[] = [
     title: "Dashbe",
     description: "It is Dashboard Created For Demo Purpose",
     techStacks: ["React js", "React Icons", "Css"],
-    image: ComingSoon,
-    githubURL: "https://kamwalaa.netlify.app/",
-    githubApi: "https://kamwalaa.netlify.app/",
-  }
+    image: newdash,
+    githubURL: "https://dashbe-dwfmpkw0w-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
+    githubApi: "https://dashbe-dwfmpkw0w-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
+  },
 ]
