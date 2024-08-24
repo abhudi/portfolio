@@ -10,6 +10,7 @@ import Music from "@/public/assets/projects/music-app.png"
 import PortfolioV2 from "@/public/assets/projects/portfolio-v2.png"
 import VSCode from "@/public/assets/projects/vscode.png"
 import newdash from "@/public/assets/projects/newdash.png"
+import sms from "@/public/assets/projects/sms.png"
 import { useSectionStore } from "@/store/section"
 import { gsap } from "gsap"
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger"
@@ -189,7 +190,7 @@ const projects: Project[] = [
     title: "School Management System",
     description: "It is School Management System",
     techStacks: ["Next js", "Tailwind", "React-charts"],
-    image: newdash,
+    image: sms,
     githubURL: "https://sms-software.vercel.app/",
     githubApi: "https://sms-software.vercel.app/",
   },
