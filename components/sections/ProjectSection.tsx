@@ -184,4 +184,13 @@ const projects: Project[] = [
     githubURL: "https://dashbe-dwfmpkw0w-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
     githubApi: "https://dashbe-dwfmpkw0w-abhishek-deshmukhs-projects-a7a84ef2.vercel.app/",
   },
+  {
+    id: 8,
+    title: "School Management System",
+    description: "It is School Management System",
+    techStacks: ["Next js", "Tailwind", "React-charts"],
+    image: newdash,
+    githubURL: "https://sms-software.vercel.app/",
+    githubApi: "https://sms-software.vercel.app/",
+  },
 ]
